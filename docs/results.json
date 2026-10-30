@@ -1,0 +1,1373 @@
+{
+  "generated_at": "2026-10-21 13:18",
+  "overview": {
+    "sent": 104,
+    "opened": 99,
+    "clicked": 45,
+    "submitted": 23,
+    "reported": 20,
+    "click_rate": 43.3,
+    "submit_rate": 22.1,
+    "report_rate": 19.2,
+    "open_rate": 95.2,
+    "outcomes": {
+      "clicked": 22,
+      "submitted": 23,
+      "opened": 34,
+      "reported": 20,
+      "sent": 5
+    },
+    "report_to_click": 44.4,
+    "campaigns": 5,
+    "employees": 24,
+    "training_completion": 100.0
+  },
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Q1 Baseline \u2014 Password Expiry",
+      "phase": "Baseline",
+      "launched_at": "2026-08-24 09:30",
+      "difficulty": "Easy",
+      "sent": 24,
+      "opened": 24,
+      "clicked": 11,
+      "submitted": 5,
+      "reported": 3,
+      "click_rate": 45.8,
+      "submit_rate": 20.8,
+      "report_rate": 12.5,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 3,
+        "opened": 10,
+        "clicked": 6,
+        "submitted": 5
+      },
+      "report_to_click": 27.3
+    },
+    {
+      "id": 2,
+      "name": "Q1 Baseline \u2014 Festival Bonus",
+      "phase": "Baseline",
+      "launched_at": "2026-08-31 09:30",
+      "difficulty": "Medium",
+      "sent": 24,
+      "opened": 22,
+      "clicked": 13,
+      "submitted": 7,
+      "reported": 2,
+      "click_rate": 54.2,
+      "submit_rate": 29.2,
+      "report_rate": 8.3,
+      "open_rate": 91.7,
+      "outcomes": {
+        "reported": 2,
+        "opened": 7,
+        "sent": 2,
+        "submitted": 7,
+        "clicked": 6
+      },
+      "report_to_click": 15.4
+    },
+    {
+      "id": 3,
+      "name": "Q2 Baseline \u2014 M365 Alert",
+      "phase": "Baseline",
+      "launched_at": "2026-09-07 09:30",
+      "difficulty": "Hard",
+      "sent": 24,
+      "opened": 21,
+      "clicked": 12,
+      "submitted": 8,
+      "reported": 2,
+      "click_rate": 50.0,
+      "submit_rate": 33.3,
+      "report_rate": 8.3,
+      "open_rate": 87.5,
+      "outcomes": {
+        "reported": 2,
+        "sent": 3,
+        "opened": 7,
+        "clicked": 4,
+        "submitted": 8
+      },
+      "report_to_click": 16.7
+    },
+    {
+      "id": 4,
+      "name": "Q3 Post-training \u2014 M365 Alert",
+      "phase": "Post-training",
+      "launched_at": "2026-10-08 09:30",
+      "difficulty": "Hard",
+      "sent": 24,
+      "opened": 24,
+      "clicked": 7,
+      "submitted": 2,
+      "reported": 12,
+      "click_rate": 29.2,
+      "submit_rate": 8.3,
+      "report_rate": 50.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 12,
+        "opened": 5,
+        "clicked": 5,
+        "submitted": 2
+      },
+      "report_to_click": 171.4
+    },
+    {
+      "id": 5,
+      "name": "Q3 Live \u2014 Courier Delivery",
+      "phase": "Live",
+      "launched_at": "2026-10-18 09:30",
+      "difficulty": "Medium",
+      "sent": 8,
+      "opened": 8,
+      "clicked": 2,
+      "submitted": 1,
+      "reported": 1,
+      "click_rate": 25.0,
+      "submit_rate": 12.5,
+      "report_rate": 12.5,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 1,
+        "submitted": 1,
+        "opened": 5,
+        "reported": 1
+      },
+      "report_to_click": 50.0
+    }
+  ],
+  "departments": [
+    {
+      "sent": 20,
+      "opened": 20,
+      "clicked": 17,
+      "submitted": 13,
+      "reported": 0,
+      "click_rate": 85.0,
+      "submit_rate": 65.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 4,
+        "submitted": 13,
+        "opened": 3
+      },
+      "report_to_click": 0.0,
+      "department": "Sales"
+    },
+    {
+      "sent": 16,
+      "opened": 16,
+      "clicked": 13,
+      "submitted": 8,
+      "reported": 1,
+      "click_rate": 81.2,
+      "submit_rate": 50.0,
+      "report_rate": 6.2,
+      "open_rate": 100.0,
+      "outcomes": {
+        "submitted": 8,
+        "clicked": 5,
+        "opened": 2,
+        "reported": 1
+      },
+      "report_to_click": 7.7,
+      "department": "Finance"
+    },
+    {
+      "sent": 16,
+      "opened": 15,
+      "clicked": 6,
+      "submitted": 2,
+      "reported": 2,
+      "click_rate": 37.5,
+      "submit_rate": 12.5,
+      "report_rate": 12.5,
+      "open_rate": 93.8,
+      "outcomes": {
+        "opened": 7,
+        "clicked": 4,
+        "sent": 1,
+        "submitted": 2,
+        "reported": 2
+      },
+      "report_to_click": 33.3,
+      "department": "HR"
+    },
+    {
+      "sent": 16,
+      "opened": 16,
+      "clicked": 4,
+      "submitted": 0,
+      "reported": 4,
+      "click_rate": 25.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 8,
+        "clicked": 4,
+        "reported": 4
+      },
+      "report_to_click": 100.0,
+      "department": "Legal"
+    },
+    {
+      "sent": 20,
+      "opened": 17,
+      "clicked": 5,
+      "submitted": 0,
+      "reported": 3,
+      "click_rate": 25.0,
+      "submit_rate": 0.0,
+      "report_rate": 15.0,
+      "open_rate": 85.0,
+      "outcomes": {
+        "opened": 9,
+        "reported": 3,
+        "clicked": 5,
+        "sent": 3
+      },
+      "report_to_click": 60.0,
+      "department": "Operations"
+    },
+    {
+      "sent": 16,
+      "opened": 15,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 10,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 62.5,
+      "open_rate": 93.8,
+      "outcomes": {
+        "reported": 10,
+        "opened": 5,
+        "sent": 1
+      },
+      "report_to_click": 0.0,
+      "department": "IT"
+    }
+  ],
+  "difficulties": [
+    {
+      "sent": 24,
+      "opened": 24,
+      "clicked": 11,
+      "submitted": 5,
+      "reported": 3,
+      "click_rate": 45.8,
+      "submit_rate": 20.8,
+      "report_rate": 12.5,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 3,
+        "opened": 10,
+        "clicked": 6,
+        "submitted": 5
+      },
+      "report_to_click": 27.3,
+      "difficulty": "Easy"
+    },
+    {
+      "sent": 32,
+      "opened": 30,
+      "clicked": 15,
+      "submitted": 8,
+      "reported": 3,
+      "click_rate": 46.9,
+      "submit_rate": 25.0,
+      "report_rate": 9.4,
+      "open_rate": 93.8,
+      "outcomes": {
+        "clicked": 7,
+        "submitted": 8,
+        "opened": 12,
+        "reported": 3,
+        "sent": 2
+      },
+      "report_to_click": 20.0,
+      "difficulty": "Medium"
+    },
+    {
+      "sent": 48,
+      "opened": 45,
+      "clicked": 19,
+      "submitted": 10,
+      "reported": 14,
+      "click_rate": 39.6,
+      "submit_rate": 20.8,
+      "report_rate": 29.2,
+      "open_rate": 93.8,
+      "outcomes": {
+        "reported": 14,
+        "sent": 3,
+        "opened": 12,
+        "clicked": 9,
+        "submitted": 10
+      },
+      "report_to_click": 73.7,
+      "difficulty": "Hard"
+    }
+  ],
+  "difficulties_baseline": [
+    {
+      "sent": 24,
+      "opened": 24,
+      "clicked": 11,
+      "submitted": 5,
+      "reported": 3,
+      "click_rate": 45.8,
+      "submit_rate": 20.8,
+      "report_rate": 12.5,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 3,
+        "opened": 10,
+        "clicked": 6,
+        "submitted": 5
+      },
+      "report_to_click": 27.3,
+      "difficulty": "Easy"
+    },
+    {
+      "sent": 24,
+      "opened": 22,
+      "clicked": 13,
+      "submitted": 7,
+      "reported": 2,
+      "click_rate": 54.2,
+      "submit_rate": 29.2,
+      "report_rate": 8.3,
+      "open_rate": 91.7,
+      "outcomes": {
+        "reported": 2,
+        "opened": 7,
+        "sent": 2,
+        "submitted": 7,
+        "clicked": 6
+      },
+      "report_to_click": 15.4,
+      "difficulty": "Medium"
+    },
+    {
+      "sent": 24,
+      "opened": 21,
+      "clicked": 12,
+      "submitted": 8,
+      "reported": 2,
+      "click_rate": 50.0,
+      "submit_rate": 33.3,
+      "report_rate": 8.3,
+      "open_rate": 87.5,
+      "outcomes": {
+        "reported": 2,
+        "sent": 3,
+        "opened": 7,
+        "clicked": 4,
+        "submitted": 8
+      },
+      "report_to_click": 16.7,
+      "difficulty": "Hard"
+    }
+  ],
+  "templates": [
+    {
+      "sent": 24,
+      "opened": 24,
+      "clicked": 11,
+      "submitted": 5,
+      "reported": 3,
+      "click_rate": 45.8,
+      "submit_rate": 20.8,
+      "report_rate": 12.5,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 3,
+        "opened": 10,
+        "clicked": 6,
+        "submitted": 5
+      },
+      "report_to_click": 27.3,
+      "id": 1,
+      "name": "IT Password Expiry",
+      "difficulty": "Easy",
+      "category": "Credential theft",
+      "active": 1
+    },
+    {
+      "sent": 24,
+      "opened": 22,
+      "clicked": 13,
+      "submitted": 7,
+      "reported": 2,
+      "click_rate": 54.2,
+      "submit_rate": 29.2,
+      "report_rate": 8.3,
+      "open_rate": 91.7,
+      "outcomes": {
+        "reported": 2,
+        "opened": 7,
+        "sent": 2,
+        "submitted": 7,
+        "clicked": 6
+      },
+      "report_to_click": 15.4,
+      "id": 2,
+      "name": "HR Festival Bonus",
+      "difficulty": "Medium",
+      "category": "Financial lure",
+      "active": 1
+    },
+    {
+      "sent": 48,
+      "opened": 45,
+      "clicked": 19,
+      "submitted": 10,
+      "reported": 14,
+      "click_rate": 39.6,
+      "submit_rate": 20.8,
+      "report_rate": 29.2,
+      "open_rate": 93.8,
+      "outcomes": {
+        "reported": 14,
+        "sent": 3,
+        "opened": 12,
+        "clicked": 9,
+        "submitted": 10
+      },
+      "report_to_click": 73.7,
+      "id": 3,
+      "name": "M365 Security Alert",
+      "difficulty": "Hard",
+      "category": "Credential theft",
+      "active": 1
+    },
+    {
+      "sent": 8,
+      "opened": 8,
+      "clicked": 2,
+      "submitted": 1,
+      "reported": 1,
+      "click_rate": 25.0,
+      "submit_rate": 12.5,
+      "report_rate": 12.5,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 1,
+        "submitted": 1,
+        "opened": 5,
+        "reported": 1
+      },
+      "report_to_click": 50.0,
+      "id": 4,
+      "name": "Courier Delivery Failure",
+      "difficulty": "Medium",
+      "category": "Malware delivery",
+      "active": 1
+    },
+    {
+      "sent": 0,
+      "opened": 0,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 0,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 0.0,
+      "open_rate": 0.0,
+      "outcomes": {},
+      "report_to_click": 0.0,
+      "id": 5,
+      "name": "CEO Gift Card Request",
+      "difficulty": "Hard",
+      "category": "Business email compromise",
+      "active": 1
+    },
+    {
+      "sent": 0,
+      "opened": 0,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 0,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 0.0,
+      "open_rate": 0.0,
+      "outcomes": {},
+      "report_to_click": 0.0,
+      "id": 6,
+      "name": "Shared Document Review",
+      "difficulty": "Hard",
+      "category": "Credential theft",
+      "active": 1
+    }
+  ],
+  "employees": [
+    {
+      "sent": 5,
+      "opened": 5,
+      "clicked": 5,
+      "submitted": 5,
+      "reported": 0,
+      "click_rate": 100.0,
+      "submit_rate": 100.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "submitted": 5
+      },
+      "report_to_click": 0.0,
+      "id": 14,
+      "name": "Divya Rao",
+      "email": "divya.rao@northstar.example",
+      "department": "Sales",
+      "designation": "Account Executive",
+      "risk": 90.6,
+      "band": "Critical",
+      "quiz_score": 5,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 4,
+      "submitted": 4,
+      "reported": 0,
+      "click_rate": 100.0,
+      "submit_rate": 100.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "submitted": 4
+      },
+      "report_to_click": 0.0,
+      "id": 12,
+      "name": "Pooja Bhatt",
+      "email": "pooja.bhatt@northstar.example",
+      "department": "Finance",
+      "designation": "Billing Executive",
+      "risk": 90.6,
+      "band": "Critical",
+      "quiz_score": 5,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 4,
+      "submitted": 3,
+      "reported": 0,
+      "click_rate": 100.0,
+      "submit_rate": 75.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "submitted": 3,
+        "clicked": 1
+      },
+      "report_to_click": 0.0,
+      "id": 9,
+      "name": "Rohan Verma",
+      "email": "rohan.verma@northstar.example",
+      "department": "Finance",
+      "designation": "Accounts Manager",
+      "risk": 75.6,
+      "band": "Critical",
+      "quiz_score": 5,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 5,
+      "clicked": 5,
+      "submitted": 3,
+      "reported": 0,
+      "click_rate": 100.0,
+      "submit_rate": 60.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "submitted": 3,
+        "clicked": 2
+      },
+      "report_to_click": 0.0,
+      "id": 13,
+      "name": "Karan Mehta",
+      "email": "karan.mehta@northstar.example",
+      "department": "Sales",
+      "designation": "Regional Sales Lead",
+      "risk": 64.8,
+      "band": "High",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 5,
+      "clicked": 4,
+      "submitted": 3,
+      "reported": 0,
+      "click_rate": 80.0,
+      "submit_rate": 60.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "submitted": 3,
+        "clicked": 1,
+        "opened": 1
+      },
+      "report_to_click": 0.0,
+      "id": 16,
+      "name": "Tanvi Gupta",
+      "email": "tanvi.gupta@northstar.example",
+      "department": "Sales",
+      "designation": "Inside Sales",
+      "risk": 59.8,
+      "band": "High",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 3,
+      "submitted": 2,
+      "reported": 0,
+      "click_rate": 75.0,
+      "submit_rate": 50.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 1,
+        "submitted": 2,
+        "opened": 1
+      },
+      "report_to_click": 0.0,
+      "id": 6,
+      "name": "Neha Singh",
+      "email": "neha.singh@northstar.example",
+      "department": "HR",
+      "designation": "Recruiter",
+      "risk": 52.5,
+      "band": "High",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 4,
+      "submitted": 1,
+      "reported": 0,
+      "click_rate": 100.0,
+      "submit_rate": 25.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 3,
+        "submitted": 1
+      },
+      "report_to_click": 0.0,
+      "id": 10,
+      "name": "Sneha Iyer",
+      "email": "sneha.iyer@northstar.example",
+      "department": "Finance",
+      "designation": "Financial Analyst",
+      "risk": 43.8,
+      "band": "Moderate",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 5,
+      "clicked": 3,
+      "submitted": 2,
+      "reported": 0,
+      "click_rate": 60.0,
+      "submit_rate": 40.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 1,
+        "submitted": 2,
+        "opened": 2
+      },
+      "report_to_click": 0.0,
+      "id": 15,
+      "name": "Sameer Khan",
+      "email": "sameer.khan@northstar.example",
+      "department": "Sales",
+      "designation": "Business Development",
+      "risk": 42.8,
+      "band": "Moderate",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 4,
+      "clicked": 3,
+      "submitted": 0,
+      "reported": 0,
+      "click_rate": 60.0,
+      "submit_rate": 0.0,
+      "report_rate": 0.0,
+      "open_rate": 80.0,
+      "outcomes": {
+        "clicked": 3,
+        "sent": 1,
+        "opened": 1
+      },
+      "report_to_click": 0.0,
+      "id": 19,
+      "name": "Manav Jain",
+      "email": "manav.jain@northstar.example",
+      "department": "Operations",
+      "designation": "Logistics Coordinator",
+      "risk": 18.8,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 2,
+      "submitted": 0,
+      "reported": 0,
+      "click_rate": 50.0,
+      "submit_rate": 0.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 2,
+        "clicked": 2
+      },
+      "report_to_click": 0.0,
+      "id": 8,
+      "name": "Aditi Rao",
+      "email": "aditi.rao@northstar.example",
+      "department": "HR",
+      "designation": "Payroll Officer",
+      "risk": 16.2,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 2,
+      "submitted": 0,
+      "reported": 0,
+      "click_rate": 50.0,
+      "submit_rate": 0.0,
+      "report_rate": 0.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "clicked": 2,
+        "opened": 2
+      },
+      "report_to_click": 0.0,
+      "id": 23,
+      "name": "Nisha Kaur",
+      "email": "nisha.kaur@northstar.example",
+      "department": "Legal",
+      "designation": "Contract Analyst",
+      "risk": 16.2,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 2,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 50.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 1,
+        "clicked": 2,
+        "reported": 1
+      },
+      "report_to_click": 50.0,
+      "id": 22,
+      "name": "Dhruv Kapoor",
+      "email": "dhruv.kapoor@northstar.example",
+      "department": "Legal",
+      "designation": "Compliance Officer",
+      "risk": 13.8,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 4,
+      "clicked": 2,
+      "submitted": 0,
+      "reported": 0,
+      "click_rate": 40.0,
+      "submit_rate": 0.0,
+      "report_rate": 0.0,
+      "open_rate": 80.0,
+      "outcomes": {
+        "clicked": 2,
+        "sent": 1,
+        "opened": 2
+      },
+      "report_to_click": 0.0,
+      "id": 18,
+      "name": "Ishita Bose",
+      "email": "ishita.bose@northstar.example",
+      "department": "Operations",
+      "designation": "Process Analyst",
+      "risk": 13.8,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 3,
+      "clicked": 1,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 25.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 75.0,
+      "outcomes": {
+        "opened": 1,
+        "sent": 1,
+        "clicked": 1,
+        "reported": 1
+      },
+      "report_to_click": 100.0,
+      "id": 5,
+      "name": "Priya Nair",
+      "email": "priya.nair@northstar.example",
+      "department": "HR",
+      "designation": "HR Executive",
+      "risk": 7.5,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 1,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 25.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 2,
+        "clicked": 1,
+        "reported": 1
+      },
+      "report_to_click": 100.0,
+      "id": 11,
+      "name": "Vikram Desai",
+      "email": "vikram.desai@northstar.example",
+      "department": "Finance",
+      "designation": "Auditor",
+      "risk": 7.5,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 5,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 20.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 4,
+        "reported": 1
+      },
+      "report_to_click": 0.0,
+      "id": 17,
+      "name": "Rahul Desai",
+      "email": "rahul.desai@northstar.example",
+      "department": "Operations",
+      "designation": "Operations Lead",
+      "risk": 1.8,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 4,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 100.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 4
+      },
+      "report_to_click": 0.0,
+      "id": 1,
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@northstar.example",
+      "department": "IT",
+      "designation": "Systems Engineer",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 7,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 3,
+        "reported": 1
+      },
+      "report_to_click": 0.0,
+      "id": 21,
+      "name": "Ananya Menon",
+      "email": "ananya.menon@northstar.example",
+      "department": "Legal",
+      "designation": "Legal Counsel",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 7,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 3,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 75.0,
+      "outcomes": {
+        "opened": 2,
+        "sent": 1,
+        "reported": 1
+      },
+      "report_to_click": 0.0,
+      "id": 2,
+      "name": "Arjun Patel",
+      "email": "arjun.patel@northstar.example",
+      "department": "IT",
+      "designation": "Network Administrator",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 7,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 3,
+        "reported": 1
+      },
+      "report_to_click": 0.0,
+      "id": 4,
+      "name": "Kabir Shah",
+      "email": "kabir.shah@northstar.example",
+      "department": "IT",
+      "designation": "DevOps Engineer",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 7,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 1,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 25.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "opened": 3,
+        "reported": 1
+      },
+      "report_to_click": 0.0,
+      "id": 7,
+      "name": "Meera Joshi",
+      "email": "meera.joshi@northstar.example",
+      "department": "HR",
+      "designation": "HR Manager",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 7,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 4,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 100.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 4
+      },
+      "report_to_click": 0.0,
+      "id": 3,
+      "name": "Riya Kulkarni",
+      "email": "riya.kulkarni@northstar.example",
+      "department": "IT",
+      "designation": "Security Analyst",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 8,
+      "quiz_total": 8
+    },
+    {
+      "sent": 5,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 2,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 40.0,
+      "open_rate": 80.0,
+      "outcomes": {
+        "opened": 2,
+        "sent": 1,
+        "reported": 2
+      },
+      "report_to_click": 0.0,
+      "id": 20,
+      "name": "Shreya Pillai",
+      "email": "shreya.pillai@northstar.example",
+      "department": "Operations",
+      "designation": "Support Specialist",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 6,
+      "quiz_total": 8
+    },
+    {
+      "sent": 4,
+      "opened": 4,
+      "clicked": 0,
+      "submitted": 0,
+      "reported": 2,
+      "click_rate": 0.0,
+      "submit_rate": 0.0,
+      "report_rate": 50.0,
+      "open_rate": 100.0,
+      "outcomes": {
+        "reported": 2,
+        "opened": 2
+      },
+      "report_to_click": 0.0,
+      "id": 24,
+      "name": "Yash Thakur",
+      "email": "yash.thakur@northstar.example",
+      "department": "Legal",
+      "designation": "Paralegal",
+      "risk": 0,
+      "band": "Low",
+      "quiz_score": 7,
+      "quiz_total": 8
+    }
+  ],
+  "repeat_clickers": [
+    {
+      "name": "Divya Rao",
+      "email": "divya.rao@northstar.example",
+      "department": "Sales",
+      "campaigns": 5,
+      "submissions": 5,
+      "reports": 0
+    },
+    {
+      "name": "Pooja Bhatt",
+      "email": "pooja.bhatt@northstar.example",
+      "department": "Finance",
+      "campaigns": 4,
+      "submissions": 4,
+      "reports": 0
+    },
+    {
+      "name": "Karan Mehta",
+      "email": "karan.mehta@northstar.example",
+      "department": "Sales",
+      "campaigns": 5,
+      "submissions": 3,
+      "reports": 0
+    },
+    {
+      "name": "Rohan Verma",
+      "email": "rohan.verma@northstar.example",
+      "department": "Finance",
+      "campaigns": 4,
+      "submissions": 3,
+      "reports": 0
+    },
+    {
+      "name": "Tanvi Gupta",
+      "email": "tanvi.gupta@northstar.example",
+      "department": "Sales",
+      "campaigns": 4,
+      "submissions": 3,
+      "reports": 0
+    },
+    {
+      "name": "Neha Singh",
+      "email": "neha.singh@northstar.example",
+      "department": "HR",
+      "campaigns": 3,
+      "submissions": 2,
+      "reports": 0
+    },
+    {
+      "name": "Sameer Khan",
+      "email": "sameer.khan@northstar.example",
+      "department": "Sales",
+      "campaigns": 3,
+      "submissions": 2,
+      "reports": 0
+    },
+    {
+      "name": "Sneha Iyer",
+      "email": "sneha.iyer@northstar.example",
+      "department": "Finance",
+      "campaigns": 4,
+      "submissions": 1,
+      "reports": 0
+    },
+    {
+      "name": "Manav Jain",
+      "email": "manav.jain@northstar.example",
+      "department": "Operations",
+      "campaigns": 3,
+      "submissions": 0,
+      "reports": 0
+    },
+    {
+      "name": "Aditi Rao",
+      "email": "aditi.rao@northstar.example",
+      "department": "HR",
+      "campaigns": 2,
+      "submissions": 0,
+      "reports": 0
+    },
+    {
+      "name": "Ishita Bose",
+      "email": "ishita.bose@northstar.example",
+      "department": "Operations",
+      "campaigns": 2,
+      "submissions": 0,
+      "reports": 0
+    },
+    {
+      "name": "Dhruv Kapoor",
+      "email": "dhruv.kapoor@northstar.example",
+      "department": "Legal",
+      "campaigns": 2,
+      "submissions": 0,
+      "reports": 0
+    },
+    {
+      "name": "Nisha Kaur",
+      "email": "nisha.kaur@northstar.example",
+      "department": "Legal",
+      "campaigns": 2,
+      "submissions": 0,
+      "reports": 0
+    }
+  ],
+  "median_time_to_click_hours": 6.9,
+  "quiz": {
+    "attempts": 48,
+    "average": 4.73,
+    "average_pct": 59.1,
+    "pass_rate": 43.8,
+    "pre": {
+      "attempts": 24,
+      "average": 3.25,
+      "average_pct": 40.6,
+      "pass_rate": 0.0
+    },
+    "post": {
+      "attempts": 24,
+      "average": 6.21,
+      "average_pct": 77.6,
+      "pass_rate": 87.5
+    },
+    "per_question": [
+      {
+        "question": "Which of these is the strongest sign of a phishing email?",
+        "accuracy": 64.6,
+        "answered": 48
+      },
+      {
+        "question": "The sender reads micorsoft-secure-auth.com. What do you do?",
+        "accuracy": 58.3,
+        "answered": 48
+      },
+      {
+        "question": "A link says northstar-portal.com but hovering shows bit.ly/xyz. You\u2026",
+        "accuracy": 47.9,
+        "answered": 48
+      },
+      {
+        "question": "What is the best action on a suspected phishing mail?",
+        "accuracy": 64.6,
+        "answered": 48
+      },
+      {
+        "question": "What does MFA protect against?",
+        "accuracy": 60.4,
+        "answered": 48
+      },
+      {
+        "question": "An executive emails you asking for gift card codes and secrecy. This is\u2026",
+        "accuracy": 60.4,
+        "answered": 48
+      },
+      {
+        "question": "Which password practice is correct?",
+        "accuracy": 58.3,
+        "answered": 48
+      },
+      {
+        "question": "You already clicked a suspicious link and typed your password. What now?",
+        "accuracy": 58.3,
+        "answered": 48
+      }
+    ],
+    "per_question_pre": [
+      {
+        "question": "Which of these is the strongest sign of a phishing email?",
+        "accuracy": 45.8,
+        "answered": 24
+      },
+      {
+        "question": "The sender reads micorsoft-secure-auth.com. What do you do?",
+        "accuracy": 41.7,
+        "answered": 24
+      },
+      {
+        "question": "A link says northstar-portal.com but hovering shows bit.ly/xyz. You\u2026",
+        "accuracy": 29.2,
+        "answered": 24
+      },
+      {
+        "question": "What is the best action on a suspected phishing mail?",
+        "accuracy": 41.7,
+        "answered": 24
+      },
+      {
+        "question": "What does MFA protect against?",
+        "accuracy": 29.2,
+        "answered": 24
+      },
+      {
+        "question": "An executive emails you asking for gift card codes and secrecy. This is\u2026",
+        "accuracy": 54.2,
+        "answered": 24
+      },
+      {
+        "question": "Which password practice is correct?",
+        "accuracy": 33.3,
+        "answered": 24
+      },
+      {
+        "question": "You already clicked a suspicious link and typed your password. What now?",
+        "accuracy": 50.0,
+        "answered": 24
+      }
+    ],
+    "per_question_post": [
+      {
+        "question": "Which of these is the strongest sign of a phishing email?",
+        "accuracy": 83.3,
+        "answered": 24
+      },
+      {
+        "question": "The sender reads micorsoft-secure-auth.com. What do you do?",
+        "accuracy": 75.0,
+        "answered": 24
+      },
+      {
+        "question": "A link says northstar-portal.com but hovering shows bit.ly/xyz. You\u2026",
+        "accuracy": 66.7,
+        "answered": 24
+      },
+      {
+        "question": "What is the best action on a suspected phishing mail?",
+        "accuracy": 87.5,
+        "answered": 24
+      },
+      {
+        "question": "What does MFA protect against?",
+        "accuracy": 91.7,
+        "answered": 24
+      },
+      {
+        "question": "An executive emails you asking for gift card codes and secrecy. This is\u2026",
+        "accuracy": 66.7,
+        "answered": 24
+      },
+      {
+        "question": "Which password practice is correct?",
+        "accuracy": 83.3,
+        "answered": 24
+      },
+      {
+        "question": "You already clicked a suspicious link and typed your password. What now?",
+        "accuracy": 66.7,
+        "answered": 24
+      }
+    ]
+  },
+  "quiz_question_count": 8
+}

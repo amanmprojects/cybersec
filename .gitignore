@@ -1,0 +1,7 @@
+phishing.db
+phishing.db-shm
+phishing.db-wal
+__pycache__/
+*.pyc
+TEMP_REPORT_FOR_REVIEW.docx
+TEMP_REPORT_FOR_REVIEW.pdf
